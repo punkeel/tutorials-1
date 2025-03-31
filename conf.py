@@ -90,7 +90,6 @@ extensions = [
     "sphinx_design",
     "sphinx_sitemap",
     "sphinxcontrib.mermaid",
-    "add-cards",
     "pytorch_sphinx_theme2"
 ]
 
