@@ -261,6 +261,7 @@ Prototype features are not available as part of binary distributions like PyPI o
 .. Page TOC
 .. -----------------------------------------
 .. toctree::
+   :maxdepth: 1
    :hidden:
 
    prototype/fx_graph_mode_quant_guide.html
